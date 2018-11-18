@@ -1,5 +1,3 @@
-
-
 function HashTable() {
     this.storage = [];
     this.count = 0;
